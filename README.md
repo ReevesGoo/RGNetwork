@@ -1,0 +1,2 @@
+# RGNetwork
+Swift简单网络请求封装工具类，Alamofire请求和SwiftyJSON解析
